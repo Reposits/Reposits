@@ -1,4 +1,12 @@
-### Hi there 👋
+<p allign="center">
+<img src="https://cdn.discordapp.com/attachments/1091696739662168167/1131182323480678440/Untitled-1.png">
+
+## **Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reposits&show_icons=true&theme=transparent)
+## **Extensions**
+__Creator of RoBlocker__
+
+_RoBlocker is an extension for blocking content on the Roblox website. It was made to protect users of the platform from predatory acts._
 
 <!--
 **Reposits/Reposits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
